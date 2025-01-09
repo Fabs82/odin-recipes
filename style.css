@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color: #9a8c98;
+    background-color: #f2e9e4;
+}
+
+h1 {
+    color: #4a4e69;
+}
+
+.recipes-link {
+    text-decoration: none;
+}
+
+.recipes-link:hover {
+    text-decoration: underline;
+    color: #22223b;
+}
+
+.recipe-img {
+    height: auto;
+    width: 75px;
+}
+
+ul {
+    list-style: none;
+}
